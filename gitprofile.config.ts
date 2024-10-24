@@ -44,7 +44,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'emirhannaneli',
+    linkedin: 'emirhan-naneli-8a5b21211',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -58,7 +58,7 @@ const CONFIG = {
     behance: '',
     medium: '',
     dev: '',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    stackoverflow: '18353450/emirhan-naneli', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://www.emirman.dev',
@@ -90,8 +90,10 @@ const CONFIG = {
     'RabbitMQ',
     'Kafka',
     'GraphQL',
+    'Feign',
     'Git',
     'Docker',
+    'Docker Swarm',
     'Linux',
     'Unit Testing',
     'JavaScript (Beginner)',
