@@ -44,7 +44,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'emirhan-naneli-8a5b21211',
+    linkedin: 'emirhannaneli',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -61,13 +61,13 @@ const CONFIG = {
     stackoverflow: '18353450/emirhan-naneli', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.emirman.dev',
+    website: 'https://emirman.dev',
     phone: '+90 546 977 71 05',
     email: 'emirhannaneli@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1-KFL1Ae20FJrAlGB0EwHic9QU-PLQAiQ/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/16MRmk-y0_xLnB0dB3_Tf9PlSwPgWqt1c/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
@@ -97,6 +97,7 @@ const CONFIG = {
     'Linux',
     'Unit Testing',
     'JavaScript (Beginner)',
+    'TypeScript (Beginner)',
     'React.js (Beginner)',
   ],
   experiences: [
@@ -132,7 +133,7 @@ const CONFIG = {
     limit: 4, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
-    id: 'G-S2Y8KSYN7M', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
